@@ -1,0 +1,14 @@
+{
+    "full_name": "For Copyright & author",
+    "email": "me@example.com",
+    "website": "http://www.mozilla.com/",
+    "github_username": "yo_mama",
+    "project_name": "my_project_name",
+    "repo_name": "my_repo",
+    "package_name": "py_package_name",
+    "distribution_name": "PyPi Name",
+    "project_short_description": "short name",
+    "release_date": "unreleased",
+    "year": "2015",
+    "version": "0.0.0"
+}
